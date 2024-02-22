@@ -1,4 +1,5 @@
 --- код для этапа 2 mart.f_customer_retention
+--- DAG к этому коду называется f_customer_retention и находится в 3_sprint_project_2_stage
 --- создаем таблицу для второго этапа проeкта
 DROP TABLE IF EXISTS mart.f_customer_retention;
 CREATE TABLE mart.f_customer_retention (
