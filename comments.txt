@@ -1,0 +1,15 @@
+У меня на гитхаб загружено два DAGa в папке de-project-sprint-3/src
+3_sprint_project_2_stage.ipynb в этом даге код, который запускает второй этап проекта (скрипт de-project-sprint-3/migrations/mart.f_customer_retention.sql)
+
+Я в формате ZIP тоже все эти файлы отправля и теперь дублирую) 
+
+
+/dags/
+.
+.keep
+Initial commit
+3 days ago
+3_sprint_project_1_stage.ipynb
+'project_3_sprint'
+8 hours ago
+3_sprint_project_2_stage.ipynb
